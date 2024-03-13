@@ -3,9 +3,10 @@ Una tienda de deportes recibe catálogos de productos de sus proveedores y quier
 
 
 
-#Comandos de instalación
+# Comando de instalación
+
 pip install pandas requests pillow
 
 
-#Comando correr código
+# Comando correr código
  python3 test.py
